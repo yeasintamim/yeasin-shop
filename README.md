@@ -43,10 +43,15 @@ $ npm run dev-server
 
 ---
 
+
+
 ## Build the project
 ```sh
 $ npm run build
 ```
+
+## Project is running at 
+http://localhost:8080/
 
 ## How to add products or perform CRUD operations for Admin
 1. Navigate to your site to `/signup`
@@ -65,3 +70,32 @@ $ npm run build
 
 "# ecommerce-react" 
 "# ecommerce-react" 
+
+## Before adding product 
+![screencapture-localhost-8080-2021-07-31-15_51_16](https://user-images.githubusercontent.com/61457979/127736304-11b98e97-01b7-4efb-bfde-264c10cfa833.png)
+![featured product](https://user-images.githubusercontent.com/61457979/127736367-0b91dce9-4fef-41a3-a898-010876401fb4.PNG)
+
+
+
+## After adding product
+![main](https://user-images.githubusercontent.com/61457979/127736315-623438b0-e45f-4117-9f04-500073af7954.png)
+
+## Basket or cart 
+![1](https://user-images.githubusercontent.com/61457979/127736698-aa6ad240-dfe4-4280-8b56-a1af219b76c4.PNG)
+
+![2](https://user-images.githubusercontent.com/61457979/127736623-84499ac7-2b30-4725-9799-72e54283740e.PNG)
+
+
+
+## sign in and sign up 
+![sign up](https://user-images.githubusercontent.com/61457979/127736344-b6ad0fab-1888-4274-b4dd-322519f9ff68.PNG)
+
+
+## Admin panel
+![admin](https://user-images.githubusercontent.com/61457979/127736531-43dbf070-7698-4b8c-8b02-2bc02a65eee7.PNG)
+![admin panel product list](https://user-images.githubusercontent.com/61457979/127736536-52e02a06-5236-4bc2-8e78-968a2ed59f0d.PNG)
+![add new product](https://user-images.githubusercontent.com/61457979/127736538-c804a2a4-d3e9-4894-abf8-9ec9c5821878.PNG)
+
+## firebase database screen shots
+![firebase](https://user-images.githubusercontent.com/61457979/127737661-79f5a6e5-5ec1-4dab-89f2-33d0acf63cd9.PNG)
+![fir2](https://user-images.githubusercontent.com/61457979/127737663-0b9f7cb3-ec18-412a-b1c5-54334580cf4f.PNG)
